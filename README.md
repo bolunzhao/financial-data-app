@@ -63,3 +63,9 @@ Once you have the dependencies installed, you can start the development server w
    REACT_APP_FMP_API_KEY=YOUR_API_KEY_HERE
    ```  
 3. **Include in .gitignore**: Ensure the `.env` file is ignored by Git to protect your key from being committed.
+
+---
+
+## The deployed App  
+
+This App has been deployed on Github Pages: [Link](https://bolunzhao.github.io/financial-data-app/) **(If it is the first time you open it, wait a few seconds for fetching data)**
