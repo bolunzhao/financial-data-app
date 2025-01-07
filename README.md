@@ -22,15 +22,15 @@ This React application fetches annual income statements for Apple Inc. (AAPL) fr
 
 ## Installation
 
-1. **Clone the Repository** (replace `<your-username>` and `<repo-name>` with your actual GitHub username and repository name):
+1. **Clone the Repository:**  
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/bolunzhao/financial-data-app.git
    ```  
 2. **Navigate to the Project Directory:**  
 
    ```bash
-   cd <repo-name>
+   cd financial-data-app
    ```  
 
 3. **Install Dependencies:**  
