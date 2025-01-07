@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/financial-data-app/static/css/main.b26a2010.css",
+    "main.js": "/financial-data-app/static/js/main.797b30b5.js",
+    "static/js/488.933725f3.chunk.js": "/financial-data-app/static/js/488.933725f3.chunk.js",
+    "index.html": "/financial-data-app/index.html",
+    "main.b26a2010.css.map": "/financial-data-app/static/css/main.b26a2010.css.map",
+    "main.797b30b5.js.map": "/financial-data-app/static/js/main.797b30b5.js.map",
+    "488.933725f3.chunk.js.map": "/financial-data-app/static/js/488.933725f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b26a2010.css",
+    "static/js/main.797b30b5.js"
+  ]
+}
